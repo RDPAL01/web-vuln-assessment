@@ -279,7 +279,8 @@ Only scan systems for which you have explicit authorization.
 
 ## 17. Author and Repository
 
-**Author:** Rajdeep Pal
+**Author:** Rajdeep Pal, Manik Patra, Sarah Fatema, Shah Alam, Shalini Mukherjee,
+Chanchal Patra, and Debasis Giri
 
 **GitHub:** https://github.com/RDPAL01
 
